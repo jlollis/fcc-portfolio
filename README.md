@@ -1,7 +1,7 @@
 Portfolio
 ================
 
-This is the portfolio project I completed November 2017 for Free Code Camp. 
+This is the portfolio project I completed for Free Code Camp in November 2017. 
 
 (Its just a small exercise, not a "real" portfolio.)
 
